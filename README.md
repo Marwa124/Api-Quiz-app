@@ -31,5 +31,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   3. Bootstrap Vue liberary for the fron-end styling [https://bootstrap-vue.js.org/]
   
   
-  ***supported by:  https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text ***
+  ***supported by:***  https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#quoting-text 
 
